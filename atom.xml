@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KEVIN050821.GitHub.io</id>
     <title>ShuXuan的首页</title>
-    <updated>2020-10-30T15:37:52.957Z</updated>
+    <updated>2021-01-22T04:45:35.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://KEVIN050821.GitHub.io"/>
     <link rel="self" href="https://KEVIN050821.GitHub.io/atom.xml"/>
     <subtitle>welcome to ShuXuan&apos;s home~</subtitle>
     <logo>https://KEVIN050821.GitHub.io/images/avatar.png</logo>
     <icon>https://KEVIN050821.GitHub.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, ShuXuan的首页</rights>
+    <rights>All rights reserved 2021, ShuXuan的首页</rights>
     <entry>
         <title type="html"><![CDATA[网站建立的第一天]]></title>
         <id>https://KEVIN050821.GitHub.io/post/wang-zhan-jian-li-de-di-yi-tian/</id>
